@@ -1,9 +1,16 @@
+
 body{
     margin: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+
+    background-image: url(background/image.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
 .main-dock{
     display: grid;
